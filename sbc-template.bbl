@@ -1,0 +1,40 @@
+\begin{thebibliography}{}
+
+\bibitem[Banavar 2015]{banavar2015watson}
+Banavar, G.~S. (2015).
+\newblock Watson and the era of cognitive computing.
+\newblock In {\em Pervasive Computing and Communications (PerCom), 2015 IEEE
+  International Conference on}, pages 95--95. IEEE.
+
+\bibitem[Boulic and Renault 1991]{boulic:91}
+Boulic, R. and Renault, O. (1991).
+\newblock 3d hierarchies for animation.
+\newblock In Magnenat-Thalmann, N. and Thalmann, D., editors, {\em New Trends
+  in Animation and Visualization}. John Wiley {\&} Sons ltd.
+
+\bibitem[Chandrasekaran and DiMascio 2016]{ibm2015}
+Chandrasekaran, S. and DiMascio, C. (2016).
+\newblock Ibm developeworks - introduciendo ibm watson.
+\newblock
+  \url{http://www.ibm.com/developerworks/ssa/cloud/library/cl-watson-films-bluemix-app/Index.html}
+  recuperado el 10/03/2016.
+
+\bibitem[IBM 2016]{watson2016}
+IBM (2016).
+\newblock What is watson.
+\newblock
+  \url{http://www.ibm.com/smarterplanet/us/en/ibmwatson/what-is-watson.html}
+  recuperado el 10/03/2016.
+
+\bibitem[Knuth 1984]{knuth:84}
+Knuth, D.~E. (1984).
+\newblock {\em The {\TeX} Book}.
+\newblock Addison-Wesley, 15th edition.
+
+\bibitem[Smith and Jones 1999]{smith:99}
+Smith, A. and Jones, B. (1999).
+\newblock On the complexity of computing.
+\newblock In Smith-Jones, A.~B., editor, {\em Advances in Computer Science},
+  pages 555--566. Publishing Press.
+
+\end{thebibliography}
