@@ -6,35 +6,77 @@ Banavar, G.~S. (2015).
 \newblock In {\em Pervasive Computing and Communications (PerCom), 2015 IEEE
   International Conference on}, pages 95--95. IEEE.
 
-\bibitem[Boulic and Renault 1991]{boulic:91}
-Boulic, R. and Renault, O. (1991).
-\newblock 3d hierarchies for animation.
-\newblock In Magnenat-Thalmann, N. and Thalmann, D., editors, {\em New Trends
-  in Animation and Visualization}. John Wiley {\&} Sons ltd.
-
-\bibitem[Chandrasekaran and DiMascio 2016]{ibm2015}
-Chandrasekaran, S. and DiMascio, C. (2016).
+\bibitem[Chandrasekaran and DiMascio 2015]{ibm2015}
+Chandrasekaran, S. and DiMascio, C. (2015).
 \newblock Ibm developeworks - introduciendo ibm watson.
 \newblock
   \url{http://www.ibm.com/developerworks/ssa/cloud/library/cl-watson-films-bluemix-app/Index.html}
   recuperado el 10/03/2016.
 
-\bibitem[IBM 2016]{watson2016}
-IBM (2016).
+\bibitem[IBM 2013]{ibm2013}
+IBM (2013).
+\newblock Ibm developer works - watson, la supercomputadora del futuro.
+\newblock
+  \url{https://www.ibm.com/developerworks/community/blogs/insider/entry/watson_medicina?lang=en}
+  recuperado el 10/03/2016.
+
+\bibitem[IBM 2016a]{ibm2015rr}
+IBM (2016a).
+\newblock Retrieve and rank - demo.
+\newblock \url{http://retrieve-and-rank-demo.mybluemix.net/rnr-demo/dist/#/}
+  recuperado el 10/03/2016.
+
+\bibitem[IBM 2016b]{watson2016}
+IBM (2016b).
 \newblock What is watson.
 \newblock
   \url{http://www.ibm.com/smarterplanet/us/en/ibmwatson/what-is-watson.html}
   recuperado el 10/03/2016.
 
-\bibitem[Knuth 1984]{knuth:84}
-Knuth, D.~E. (1984).
-\newblock {\em The {\TeX} Book}.
-\newblock Addison-Wesley, 15th edition.
+\bibitem[INEC 2014]{inec2014}
+INEC (2014).
+\newblock 1,2 millones de ecuatorianos tienen un teléfono inteligente
+  (smartphone).
 
-\bibitem[Smith and Jones 1999]{smith:99}
-Smith, A. and Jones, B. (1999).
-\newblock On the complexity of computing.
-\newblock In Smith-Jones, A.~B., editor, {\em Advances in Computer Science},
-  pages 555--566. Publishing Press.
+\bibitem[MSP 2008]{msp2008b}
+MSP (2008).
+\newblock Plan nacional de reducción acelerada de la mortalidad materna y
+  neonatal.
+
+\bibitem[MSP 2013]{msp2013}
+MSP (2013).
+\newblock Norma para el cuidado obstetrico y neonatal esencial.
+
+\bibitem[NNUU 2008]{nnuu2000}
+NNUU (2008).
+\newblock Declaración del milenio.
+\newblock \url{http://www.un.org/es/development/devagenda/millennium.shtml}
+  recuperado el 10/03/2016.
+
+\bibitem[OMS 2015a]{oms2015a}
+OMS (2015a).
+\newblock Evolución de la mortalidad materna: 1990-2015.
+\newblock
+  \url{http://apps.who.int/iris/bitstream/10665/204114/1/WHO_RHR_15.23_spa.pdf}
+  recuperado el 10/03/2016.
+
+\bibitem[OMS 2015b]{oms2015b}
+OMS (2015b).
+\newblock Mortalidad materna.
+\newblock \url{http://www.who.int/mediacentre/factsheets/fs348/es/} recuperado
+  el 10/03/2016.
+
+\bibitem[OMS 2015c]{oms2015c}
+OMS (2015c).
+\newblock Naciones unidas: la mortalidad materna se ha reducido un 44% desde
+  1990.
+\newblock
+  \url{http://www.who.int/mediacentre/news/releases/2015/maternal-mortality/es/}
+  recuperado el 10/03/2016.
+
+\bibitem[OPS 2014]{ops2014}
+OPS (2014).
+\newblock La esalud: aprovechar la tecnología en el camino hacia la cobertura
+  universal de salud.
 
 \end{thebibliography}
